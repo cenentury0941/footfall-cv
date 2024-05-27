@@ -1,5 +1,9 @@
-Postprocessor Python Example
+Work in Progress
 =========================
+
+## Implementation of PostProcessor is still in progress due to apparent conflicts in version.
+
+## This is a fork of the Example PostProcessor Python script
 
 This example application provides an example on how to create a Python based postprocessor that can be integrated with the NXAI Edge AI Manager.
 

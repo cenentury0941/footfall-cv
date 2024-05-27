@@ -8,7 +8,7 @@ FootfallCV is an enterprise-level computer vision-powered application designed t
 
 A planogram, often abbreviated as POG, is a visual representation or diagram that illustrates how products should be displayed on shelves or within store aisles. It's essentially a strategic blueprint for arranging merchandise in a retail space to maximize sales and optimize the shopping experience for customers. Planograms take into account factors such as product popularity, seasonality, promotional strategies, and consumer behavior to create an efficient layout that encourages impulse purchases and ensures that products are easily accessible and visually appealing to shoppers. Retailers use planograms to streamline inventory management, improve shelf space utilization, and ultimately drive higher sales.
 
-![Alt Text](https://raw.githubusercontent.com/cenentury0941/footfall-cv/main/Screenshots/Screenshot%20from%202024-05-27%2006-42-23.png)
+![Alt Text](https://raw.githubusercontent.com/cenentury0941/Pictures/main/Screenshot%20from%202024-05-27%2006-42-23.png)
 
 ## AI Summarization
 
@@ -60,7 +60,7 @@ The summarized insights provided by GPT-4 enable businesses to make informed dec
     - Setup a few test cameras
     - Add the following camera rule for each camera (take note that the URL has to be modified with the camera name replaced at the end)
 
-![Alt Text](https://raw.githubusercontent.com/cenentury0941/footfall-cv/main/Screenshots/Screenshot%20from%202024-05-27%2006-50-24.png)
+![Alt Text](https://raw.githubusercontent.com/cenentury0941/Pictures/main/Screenshot%20from%202024-05-27%2006-50-24.png)
 
 ## Start the NodeJS Server
 
@@ -81,11 +81,11 @@ The summarized insights provided by GPT-4 enable businesses to make informed dec
 
     - Add the ReactJS application as a webpage within Nx Meta using it's url
 
-![Alt Text](https://raw.githubusercontent.com/cenentury0941/footfall-cv/main/Screenshots/Screenshot%20from%202024-05-27%2006-46-52.png)
+![Alt Text](https://raw.githubusercontent.com/cenentury0941/Pictures/main/Screenshot%20from%202024-05-27%2006-46-52.png)
 
 ## Functionality
 
-![Alt Text](https://raw.githubusercontent.com/cenentury0941/footfall-cv/main/Screenshots/Screenshot%20from%202024-05-27%2006-44-55.png)
+![Alt Text](https://raw.githubusercontent.com/cenentury0941/Pictures/main/Screenshot%20from%202024-05-27%2006-44-55.png)
 
 
 ### Currently we added the following functionalities:

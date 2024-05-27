@@ -4,6 +4,9 @@
 
 FootfallCV is an enterprise-level computer vision-powered application designed to monitor and understand customer behavior in convenience and big-box stores. By analyzing customer behavior, businesses can optimize their shop layouts to increase the chances of customers viewing more products and making add-on purchases, thereby improving overall sales.
 
+## Demo Video
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/cenentury0941/Pictures/main/Screenshot%20from%202024-05-27%2006-44-55.png)](https://www.youtube.com/watch?v=2ok3rjqW4Xk)
+
 ## Planograms
 
 A planogram, often abbreviated as POG, is a visual representation or diagram that illustrates how products should be displayed on shelves or within store aisles. It's essentially a strategic blueprint for arranging merchandise in a retail space to maximize sales and optimize the shopping experience for customers. Planograms take into account factors such as product popularity, seasonality, promotional strategies, and consumer behavior to create an efficient layout that encourages impulse purchases and ensures that products are easily accessible and visually appealing to shoppers. Retailers use planograms to streamline inventory management, improve shelf space utilization, and ultimately drive higher sales.
